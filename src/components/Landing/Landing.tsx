@@ -8,7 +8,6 @@ const Landing: Component = () => {
 
   return (
     <div>
-      <div class={landingStyles.spacer}></div>
       <div class={landingStyles.firstBlock}>
         <h1 class={landingStyles.firstBlockH1}>
           My name is Robert Guerra and I'm a 
@@ -22,7 +21,7 @@ const Landing: Component = () => {
         </h1>
       </div>
       <div>
-        <section>My coding journey</section>
+        <section>My coding journey</section> 
         <p>
           I began my programming journey with C++ at Santiago Community College. Following my transition to University,
           I began exploring Python for Data Science and Swift for iOS development. Ultimately, I
