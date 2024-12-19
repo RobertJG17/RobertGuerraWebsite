@@ -1,0 +1,49 @@
+.spacer {
+  width: 100%;
+  border: 2px dashed green;
+}
+
+.firstBlock {
+  border: 2px solid red; /* temp */
+}
+
+.firstBlockCodeColor {
+  color: greenyellow;
+}
+
+.firstBlockH1 {
+  font-size: 65px;
+  max-width: 50%;
+  margin-top: 4%;
+  font-weight: 300
+}
+
+
+.secondBlock {
+  border: 2px solid red; /* temp */
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.secondaryCodeColor {
+  color: lightskyblue;
+}
+
+.secondBlockH1 {
+  font-size: 65px;
+  max-width: 70%;
+  margin-top: 4%;
+  text-align: right;
+  font-weight: 300;
+}
+
+section {
+  font-size: 40px;
+  text-align: center;
+  padding-top: 5%;
+}
+
+p {
+  font-size: 30px;
+  font-weight: lighter;
+}
